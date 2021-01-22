@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Första test blogg-posten",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, incidunt hic eligendi nemo quis dolorem consequatur tenetur molestiae nisi, cumque rerum deserunt unde illum autem fuga natus totam laboriosam omnis.\n",
+      "author": "Peter",
+      "id": 1
+    },
+    {
+      "title": "Torsdag i Januari",
+      "body": "Då var torsdagen nästan över. En grå regnig dag, all snö som lyckats komma smalt snabbt bort igen. Tråkigt, men fryser det på nu så blir ju isen på sjön perfekt. Emelie ska så fort det blir åkbart ha premiär på skridskor på sjöis. Tänk vad mycket vi gör som är första gången för henne! Vad kul det är att se henne upptäcka nya saker och uppleva allt för första gången. Vi har gjort en lista på saker som vi vill göra under 2021, ska bli kul att se hur mycket av det vi har gjort när året är slut.",
+      "author": "Åsa",
+      "id": 3
+    },
+    {
+      "title": "Spel med mamma och pappa",
+      "body": "Idag har jag spelat spel med mamma och pappa. Det var jättekul!",
+      "author": "Emelie",
+      "id": 4
+    }
+  ]
+}
